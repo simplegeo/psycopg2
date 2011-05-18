@@ -1,3 +1,9 @@
+psycopg2 (2.0.7-2-sg0) unstable; urgency=medium
+
+  * Set build number for SimpleGeo's build system.
+
+ -- Ben Standefer <ben@simplegeo.com>  Thu, 01 May 2008 17:43:54 +0200
+
 psycopg2 (2.0.7-2) unstable; urgency=medium
 
   * ZPsycopgDA/DA.py: updated the patch. (Closes: #478860)
